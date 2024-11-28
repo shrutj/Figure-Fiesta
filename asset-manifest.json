@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Figure-Fiesta/static/css/main.c9741ea5.css",
-    "main.js": "/Figure-Fiesta/static/js/main.053883da.js",
+    "main.css": "/Figure-Fiesta/static/css/main.cd62a716.css",
+    "main.js": "/Figure-Fiesta/static/js/main.61af263a.js",
     "static/media/bg_image-FF.jpg": "/Figure-Fiesta/static/media/bg_image-FF.ce0398d2ebd73aafd656.jpg",
     "static/media/logo.png": "/Figure-Fiesta/static/media/logo.d1934b19c4a5b3b581fa.png",
     "static/media/loadingAnimation.gif": "/Figure-Fiesta/static/media/loadingAnimation.f1bd126e0b905cb1be34.gif",
+    "static/media/logo-razorpay.jpeg": "/Figure-Fiesta/static/media/logo-razorpay.c20c199020717b97dbf7.jpeg",
     "static/media/slick.svg": "/Figure-Fiesta/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Figure-Fiesta/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Figure-Fiesta/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Figure-Fiesta/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Figure-Fiesta/index.html",
-    "main.c9741ea5.css.map": "/Figure-Fiesta/static/css/main.c9741ea5.css.map",
-    "main.053883da.js.map": "/Figure-Fiesta/static/js/main.053883da.js.map"
+    "main.cd62a716.css.map": "/Figure-Fiesta/static/css/main.cd62a716.css.map",
+    "main.61af263a.js.map": "/Figure-Fiesta/static/js/main.61af263a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9741ea5.css",
-    "static/js/main.053883da.js"
+    "static/css/main.cd62a716.css",
+    "static/js/main.61af263a.js"
   ]
 }
