@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Figure-Fiesta/static/css/main.9574d4b9.css",
-    "main.js": "/Figure-Fiesta/static/js/main.c49752d6.js",
+    "main.css": "/Figure-Fiesta/static/css/main.b5aed455.css",
+    "main.js": "/Figure-Fiesta/static/js/main.d998a340.js",
     "static/media/bg_image-FF.jpg": "/Figure-Fiesta/static/media/bg_image-FF.ce0398d2ebd73aafd656.jpg",
     "static/media/logo.png": "/Figure-Fiesta/static/media/logo.d1934b19c4a5b3b581fa.png",
     "static/media/loadingAnimation.gif": "/Figure-Fiesta/static/media/loadingAnimation.f1bd126e0b905cb1be34.gif",
@@ -11,11 +11,11 @@
     "static/media/slick.ttf": "/Figure-Fiesta/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Figure-Fiesta/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Figure-Fiesta/index.html",
-    "main.9574d4b9.css.map": "/Figure-Fiesta/static/css/main.9574d4b9.css.map",
-    "main.c49752d6.js.map": "/Figure-Fiesta/static/js/main.c49752d6.js.map"
+    "main.b5aed455.css.map": "/Figure-Fiesta/static/css/main.b5aed455.css.map",
+    "main.d998a340.js.map": "/Figure-Fiesta/static/js/main.d998a340.js.map"
   },
   "entrypoints": [
-    "static/css/main.9574d4b9.css",
-    "static/js/main.c49752d6.js"
+    "static/css/main.b5aed455.css",
+    "static/js/main.d998a340.js"
   ]
 }
